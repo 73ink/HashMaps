@@ -3,7 +3,7 @@ import java.util.HashMap;
 public class EmployeeCompareUpdateDemo {
     public static void main(String[] args) {
 
-        // create HashMap
+        // creating a HashMap
         HashMap<Integer, String> employees = new HashMap<Integer, String>();
 
         // add employee records
